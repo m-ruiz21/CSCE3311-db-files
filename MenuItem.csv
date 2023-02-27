@@ -1,0 +1,23 @@
+id,name,price,category,ingredient_id
+df77ba8c-b6de-11ed-9e1d-00155d075894,brown rice,,base,df77bd3e-b6de-11ed-9e1d-00155d075894
+df77be38-b6de-11ed-9e1d-00155d075894,rice pilaf,,base,df77bed8-b6de-11ed-9e1d-00155d075894
+df77bf8c-b6de-11ed-9e1d-00155d075894,pita,,base,df77c022-b6de-11ed-9e1d-00155d075894
+df77c0cc-b6de-11ed-9e1d-00155d075894,falafel,5.89,protein,
+df77c16c-b6de-11ed-9e1d-00155d075894,meatball,6.89,protein,
+df77c220-b6de-11ed-9e1d-00155d075894,feta cheese,,topping,df77c2de-b6de-11ed-9e1d-00155d075894
+df77c388-b6de-11ed-9e1d-00155d075894,cucumber,,topping,df77c414-b6de-11ed-9e1d-00155d075894
+df77c4b4-b6de-11ed-9e1d-00155d075894,tzatziki,,topping,
+df77c55e-b6de-11ed-9e1d-00155d075894,hot sauce,,topping,df77c662-b6de-11ed-9e1d-00155d075894
+df77c720-b6de-11ed-9e1d-00155d075894,peppers,,topping,df77c7ca-b6de-11ed-9e1d-00155d075894
+df77c86a-b6de-11ed-9e1d-00155d075894,hummus,,topping,
+df77c91e-b6de-11ed-9e1d-00155d075894,olives,,topping,df77c9aa-b6de-11ed-9e1d-00155d075894
+df77ca68-b6de-11ed-9e1d-00155d075894,onion,,topping,df77caf4-b6de-11ed-9e1d-00155d075894
+df77cb94-b6de-11ed-9e1d-00155d075894,tomato,,topping,df77cc2a-b6de-11ed-9e1d-00155d075894
+df77ccca-b6de-11ed-9e1d-00155d075894,greek yogurt,,dressing,
+df77cd6a-b6de-11ed-9e1d-00155d075894,aioli,,dressing,
+df77ce1e-b6de-11ed-9e1d-00155d075894,harissa,,dressing,
+df77cec8-b6de-11ed-9e1d-00155d075894,tahini,,dressing,
+df77cf72-b6de-11ed-9e1d-00155d075894,oregano,,dressing,
+df77d012-b6de-11ed-9e1d-00155d075894,salad,,side,
+df77d0b2-b6de-11ed-9e1d-00155d075894,hummus and pita,,side,
+df77d206-b6de-11ed-9e1d-00155d075894,drink,,drink,df77d292-b6de-11ed-9e1d-00155d075894
